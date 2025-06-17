@@ -1,0 +1,190 @@
+{
+  "main": {
+    "id": "c1521f8fb770080a",
+    "type": "split",
+    "children": [
+      {
+        "id": "28297ebc4f78ccf9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "be950fa67dd7d115",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "Lanza/Factions/Facciones.canvas",
+                "viewState": {
+                  "x": -66,
+                  "y": 170,
+                  "zoom": -0.24897881061237473
+                }
+              },
+              "icon": "lucide-layout-dashboard",
+              "title": "Facciones"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "9082d22bf22b20f8",
+    "type": "split",
+    "children": [
+      {
+        "id": "0aea05ff9ee2c561",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "95886be1999b6a60",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "a3104dcafcd33ed6",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "8426b9eada499270",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 227.5
+  },
+  "right": {
+    "id": "a4c5c952ed5e3b03",
+    "type": "split",
+    "children": [
+      {
+        "id": "2c99cb76b46269d7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a0232400d7a1b29a",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Lanza/Factions/Deimons Faction/KRÜN-NAKH, EL PARÁSITO VIVIENTE.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for KRÜN-NAKH, EL PARÁSITO VIVIENTE"
+            }
+          },
+          {
+            "id": "fbf8952ac44691e1",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Lanza/Factions/Deimons Faction/KRÜN-NAKH, EL PARÁSITO VIVIENTE.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from KRÜN-NAKH, EL PARÁSITO VIVIENTE"
+            }
+          },
+          {
+            "id": "cda88c8858bf4396",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "94cc152a7462afb8",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Lanza/Factions/Deimons Faction/KRÜN-NAKH, EL PARÁSITO VIVIENTE.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of KRÜN-NAKH, EL PARÁSITO VIVIENTE"
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "be950fa67dd7d115",
+  "lastOpenFiles": [
+    "Lanza/Factions/Deimons Faction/KRÜN-NAKH, EL PARÁSITO VIVIENTE.md",
+    "Lanza/Factions/Deimons Faction/Héroes Deimons.md",
+    "Lanza/Factions/Deimons Faction/NAK'THOR, MAESTRO DEL DOLOR VINCULADO.md",
+    "Lanza/Factions/Facciones.canvas",
+    "Lanza/Factions/Deimons Faction/ZHA’KRUL, ESPARCE OSCURIDAD.md",
+    "Lanza/Factions/Deimons Faction/ZHA’KRUL, ESPARCE OSCURIDAD 1.md",
+    "Lanza/Core Manual/Reglas Básicas - Punta de Lanza.md",
+    "Lanza/Factions",
+    "Lanza",
+    "Lanza/Core Manual",
+    "Lanza/Factions/Deimons Faction",
+    "create a link.md"
+  ]
+}

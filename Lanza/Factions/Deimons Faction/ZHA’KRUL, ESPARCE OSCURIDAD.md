@@ -49,6 +49,7 @@
 **Envenenamiento Oscuro:** Puedes usar esta habilidad 3 veces por partida. Puedes activar esta habilidad al golpear efectivamente a un enemigo, al activarlo puedes tirar 1d12+2 Vs una tirada de Voluntad(1d12+Voluntad). Si ganas la tirada, el enemigo gana un contador de veneno (Al final de cada turno, pierde 10 puntos de vida por contador de veneno. Los stacks de venenos se pueden apilar hasta 10).
 
 ---
+#### Habilidades únicas
 
 **Habilidad única 1:**
 

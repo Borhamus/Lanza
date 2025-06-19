@@ -1,11 +1,11 @@
 {
 	"nodes":[
-		{"id":"7219dff515d1c324","type":"text","text":"Tain seeds","x":100,"y":-70,"width":140,"height":50},
-		{"id":"7d82d425c6a8b50c","x":-200,"y":-20,"width":140,"height":50,"type":"text","text":"Dein"},
-		{"id":"65e51a785dbe1003","type":"text","text":"Biskrorum","x":-40,"y":-20,"width":140,"height":50},
-		{"id":"4a90571f0e7f75c5","type":"text","text":"Evolgenia","x":-340,"y":-70,"width":140,"height":50},
-		{"id":"e16c774b6ac9fabc","x":-165,"y":-220,"width":250,"height":60,"type":"text","text":"Facciones"},
-		{"id":"c4ed2b5bb10879e5","x":-372,"y":160,"width":485,"height":400,"type":"file","file":"Lanza/Factions/Deimons Faction/Héroes Deimons.md"}
+		{"id":"7d82d425c6a8b50c","type":"text","text":"Dein","x":-200,"y":-20,"width":140,"height":50},
+		{"id":"e16c774b6ac9fabc","type":"text","text":"Facciones","x":-165,"y":-220,"width":250,"height":60},
+		{"id":"c4ed2b5bb10879e5","type":"file","file":"Lanza/Factions/Deimons Faction/1 - Héroes Deimons.md","x":-372,"y":160,"width":485,"height":580},
+		{"id":"65e51a785dbe1003","type":"text","text":"Biskrorum","x":240,"y":-20,"width":140,"height":50},
+		{"id":"7219dff515d1c324","type":"text","text":"Tain seeds","x":680,"y":-20,"width":140,"height":50},
+		{"id":"4a90571f0e7f75c5","type":"text","text":"Evolgenia","x":-740,"y":-20,"width":140,"height":50}
 	],
 	"edges":[
 		{"id":"f634ff06eecbb56e","fromNode":"e16c774b6ac9fabc","fromSide":"bottom","toNode":"7d82d425c6a8b50c","toSide":"top"},

@@ -15,9 +15,9 @@
               "state": {
                 "file": "Lanza/Factions/Facciones.canvas",
                 "viewState": {
-                  "x": -66,
-                  "y": 170,
-                  "zoom": -0.24897881061237473
+                  "x": 40,
+                  "y": 260,
+                  "zoom": -0.5169171132980575
                 }
               },
               "icon": "lucide-layout-dashboard",
@@ -174,11 +174,15 @@
   },
   "active": "be950fa67dd7d115",
   "lastOpenFiles": [
-    "Lanza/Factions/Deimons Faction/KRÜN-NAKH, EL PARÁSITO VIVIENTE.md",
-    "Lanza/Factions/Deimons Faction/Héroes Deimons.md",
-    "Lanza/Factions/Deimons Faction/NAK'THOR, MAESTRO DEL DOLOR VINCULADO.md",
-    "Lanza/Factions/Facciones.canvas",
     "Lanza/Factions/Deimons Faction/ZHA’KRUL, ESPARCE OSCURIDAD.md",
+    "Lanza/Factions/Facciones.canvas",
+    "Lanza/Factions/Deimons Faction/1 - Héroes Deimons.md",
+    "Lanza/Factions/Deimons Faction/DRE'ZHAR, EL ASCENDIDO POR LLAMAS NEGRAS.md",
+    "Lanza/Factions/Deimons Faction/KRÜN-NAKH, EL PARÁSITO VIVIENTE.md",
+    "Lanza/Factions/Deimons Faction/VAHLYR, EL SILENCIO CONFORMADO.md",
+    "Lanza/Factions/Deimons Faction/NAK'THOR, MAESTRO DEL DOLOR VINCULADO.md",
+    "Lanza/Factions/Deimons Faction/VHAZ’NUR, EL HIJO DEL VOLCAN.md",
+    "1 ZHA’KRUL, ESPARCE OSCURIDAD.md",
     "Lanza/Factions/Deimons Faction/ZHA’KRUL, ESPARCE OSCURIDAD 1.md",
     "Lanza/Core Manual/Reglas Básicas - Punta de Lanza.md",
     "Lanza/Factions",

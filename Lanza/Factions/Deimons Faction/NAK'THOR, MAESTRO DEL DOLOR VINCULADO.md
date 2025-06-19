@@ -49,6 +49,7 @@
 **Equipo 2:** Mientras equipada +10 a tu defensa física.
 
 ---
+#### Habilidades únicas
 
 **Habilidad única 1:**
 
@@ -171,6 +172,7 @@
     
 - **No le gusta:** Las curaciones, el sol, los cantos de victoria. Cree que todo eso es ilusión.
 
+---
 ---
 
 **Trasfondo:**

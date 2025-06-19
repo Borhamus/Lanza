@@ -11,17 +11,14 @@
             "id": "be950fa67dd7d115",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "Lanza/Factions/Facciones.canvas",
-                "viewState": {
-                  "x": 40,
-                  "y": 260,
-                  "zoom": -0.5169171132980575
-                }
+                "file": "Lanza/Factions/Evolgenians Faction/DAÏGUT, LA ESFINGE INMORTAL.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-layout-dashboard",
-              "title": "Facciones"
+              "icon": "lucide-file",
+              "title": "DAÏGUT, LA ESFINGE INMORTAL"
             }
           }
         ]
@@ -81,7 +78,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 227.5
+    "width": 227.5,
+    "collapsed": true
   },
   "right": {
     "id": "a4c5c952ed5e3b03",
@@ -174,10 +172,19 @@
   },
   "active": "be950fa67dd7d115",
   "lastOpenFiles": [
-    "Lanza/Factions/Deimons Faction/ZHA’KRUL, ESPARCE OSCURIDAD.md",
-    "Lanza/Factions/Facciones.canvas",
-    "Lanza/Factions/Deimons Faction/1 - Héroes Deimons.md",
+    "Lanza/Factions/Evolgenians Faction/1 - Héroes Evolgens.md",
+    "Lanza/Factions/Evolgenians Faction/DAÏGUT, LA ESFINGE INMORTAL.md",
+    "Lanza/Factions/Formato de Heroe.md",
+    "Lanza/Factions/Evolgenians Faction/VAHLYR, EL SILENCIO CONFORMADO.md",
+    "Lanza/Factions/Evolgenians Faction/ZHA’KRUL, ESPARCE OSCURIDAD.md",
+    "Lanza/Factions/Evolgenians Faction/VHAZ’NUR, EL HIJO DEL VOLCAN.md",
+    "Lanza/Factions/Evolgenians Faction/NAK'THOR, MAESTRO DEL DOLOR VINCULADO.md",
+    "Lanza/Factions/Evolgenians Faction/KRÜN-NAKH, EL PARÁSITO VIVIENTE.md",
     "Lanza/Factions/Deimons Faction/DRE'ZHAR, EL ASCENDIDO POR LLAMAS NEGRAS.md",
+    "Lanza/Factions/Evolgenians Faction",
+    "Lanza/Factions/Facciones.canvas",
+    "Lanza/Factions/Deimons Faction/ZHA’KRUL, ESPARCE OSCURIDAD.md",
+    "Lanza/Factions/Deimons Faction/1 - Héroes Deimons.md",
     "Lanza/Factions/Deimons Faction/KRÜN-NAKH, EL PARÁSITO VIVIENTE.md",
     "Lanza/Factions/Deimons Faction/VAHLYR, EL SILENCIO CONFORMADO.md",
     "Lanza/Factions/Deimons Faction/NAK'THOR, MAESTRO DEL DOLOR VINCULADO.md",

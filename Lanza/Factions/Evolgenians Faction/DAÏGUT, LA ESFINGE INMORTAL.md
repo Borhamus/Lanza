@@ -1,31 +1,30 @@
 
 ## HÉROE DE DÉIN:
 
-**Nombre:** DRE'ZHAR, EL ASCENDIDO POR LLAMAS NEGRAS
-
-**Subraza:** **Yssurim**  
-**Clase:** Cazador de Almas  
-**Afiliación mágica:** Magia de Consumo / Terror Psíquico  
-**Rol:** DPS élite / infiltrador / escalador por absorción  
-**Estilo de combate:** Golpes quirúrgicos, movilidad extrema, crecimiento exponencial por almas.
+**Nombre:** DAÏGUT, LA ESFINGE INMORTAL
+**Subraza:** Proto-Khaliër Suprema
+**Clase:** Arconte Magocrático
+**Afiliación mágica:** Lógica Mágica / Ether / Control Mental
+**Rol:** Hechicero estratégico / controlador de campo / líder de sinergias mecánicas
+**Estilo de combate:** Magia predictiva, algoritmos mágicos, comando a distancia, control táctico absoluto.
 
 ---
 
 | Stats              | Puntos | Coste |
 | :----------------- | :----: | :---: |
-| Movilidad          |   10   |   5   |
-| Puntos de Accion   |   4    |  13   |
-| Puntos de Reaccion |   4    |  13   |
-| Vida               |  175   |  15   |
-| Def Fis            |   25   |  15   |
-| Def Mag            |   25   |  15   |
-| Voluntad           |   5    |  15   |
+| Movilidad          |   8    |   3   |
+| Puntos de Accion   |   3    |   8   |
+| Puntos de Reaccion |   3    |   8   |
+| Vida               |  200   |  20   |
+| Def Fis            |   20   |  10   |
+| Def Mag            |   15   |   7   |
+| Voluntad           |   1    |   3   |
 | Bloqueo            |   5    |  15   |
-| Equipment Slot's   |   5    |  15   |
-| Magic Slot's       |   4    |  10   |
-| Armas Equipadas    |   4    |  50   |
-| Magias Equipadas   |   4    |  65   |
-| Costo Total=       |        |  246  |
+| Equipment Slot's   |   4    |  10   |
+| Magic Slot's       |   1    |   3   |
+| Armas Equipadas    |   3    |  30   |
+| Magias Equipadas   |   1    |  10   |
+| Costo Total=       |        |  127  |
 
 ---
 
